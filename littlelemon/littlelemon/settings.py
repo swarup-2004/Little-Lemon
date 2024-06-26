@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "restaurant", # Adding installed app
+    "rest_framework", # App for using django rest_framework (added after installing djangorestframework)
 ]
 
 MIDDLEWARE = [
